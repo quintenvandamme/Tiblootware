@@ -1,1 +1,0 @@
-x=msgbox("corona" ,0, "ERROR")
