@@ -1,0 +1,1 @@
+objshell.run "cmd /c if exist program.cmd (echo shutdown -r && pause) else  (echo no file found && pause)"
