@@ -1,1 +1,0 @@
-CreateObject("WScript.Shell").Run "test 50.cmd"
